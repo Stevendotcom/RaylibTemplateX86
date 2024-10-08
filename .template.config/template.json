@@ -1,0 +1,14 @@
+{
+    "author": "AlexDawn",
+    "name": "Raylib basic template for x86",
+    "description": "A project for making games in Raylib, in c++.",
+    "identity": "AlexDawn.ConsoleApp.1.0",
+    "shortName": "raylibAppx86",
+    "classifications": ["Console"],
+    "defaultName": "MyNewGame",
+    "sourceName": "WelcomeToHell",
+    "tags": {
+        "language": "C++",
+        "type": "project"
+    },
+}
